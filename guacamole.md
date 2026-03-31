@@ -4,6 +4,6 @@
 * onions
 * tomatoes
 * lime
-* cilantro
+* serrano pepper
 
 ## Instructions
