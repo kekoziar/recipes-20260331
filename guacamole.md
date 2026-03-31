@@ -4,5 +4,6 @@
 * onions
 * tomatoes
 * lime
+* cilantro
 
 ## Instructions
