@@ -4,6 +4,6 @@
 * onions
 * tomatoes
 * lime
-* serrano pepper
+* serrano pepper or jalapeño, to your heat preference
 
 ## Instructions
