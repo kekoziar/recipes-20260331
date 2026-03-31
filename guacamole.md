@@ -3,6 +3,6 @@
 * avocado
 * onions
 * tomatoes
-* cilantro
+* lime
 
 ## Instructions
